@@ -3,7 +3,7 @@
 ### UC San Diego
 #### Jacobs School of Engineering
 
-[Contact Me](#Contact)  
+[Contact Me](#contact)  
 ![Profile picture](Tejasvin.jpeg)  
 Link to my LinkedIn Profile - [LinkedIn](https://www.linkedin.com/in/tejasvin28/).
 
